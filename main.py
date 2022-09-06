@@ -50,6 +50,7 @@ Row2""")
 my_secv = 'jhfgsdjhfgdsjhfgdsjhfgdj'
 print(len(my_secv))
 print('gdj' in my_secv)   #sau not int
+#
 
 
 
