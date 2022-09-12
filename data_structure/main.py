@@ -72,7 +72,7 @@ my_list.append(60)
 my_tuple = tuple(my_list)
 print('my tuple is', my_tuple, type(my_tuple))
 
-
+#tuplu
 
 
 
