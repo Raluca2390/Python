@@ -52,5 +52,5 @@ print(len(my_secv))
 print('gdj' in my_secv)   #sau not int
 #
 
-
+#git Pull-> Branches->New Branch->data STructures bifa checkout
 
